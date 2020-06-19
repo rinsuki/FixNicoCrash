@@ -3,7 +3,7 @@ Name: FixNicoCrash
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: niconicoアプリがクラッシュしてしまうのを修正します。
 Maintainer: rinsuki <contact.tweaks@rinsuki.net>
 Author: rinsuki <contact.tweaks@rinsuki.net>
 Section: Tweaks
