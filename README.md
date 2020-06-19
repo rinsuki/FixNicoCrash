@@ -4,7 +4,7 @@ iOS 版 niconico アプリが脱獄環境 (もっと具体的に言うと Substr
 
 ## repo
 
-準備中
+→→→ https://tweaks-repo.rinsuki.net/ ←←←
 
 ## 中身
 
