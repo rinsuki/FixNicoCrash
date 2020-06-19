@@ -1,7 +1,7 @@
 Package: net.rinsuki.tweaks.fixnicocrash
 Name: FixNicoCrash
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: niconicoアプリがクラッシュしてしまうのを修正します。
 Maintainer: rinsuki <contact.tweaks@rinsuki.net>
